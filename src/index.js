@@ -1,7 +1,7 @@
 import fs from 'fs';
-import getComparison from './comparison.js';
 import path from 'path';
 import { cwd } from 'process';
+import getComparison from './comparison.js';
 
 const genDiff = (filepath1, filepath2) => {
   const currentPath = cwd();
