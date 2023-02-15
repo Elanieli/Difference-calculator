@@ -11,4 +11,5 @@
 [![asciicast](https://asciinema.org/a/9qxC9RmXndGVukKelJEaW5mRz.svg)](https://asciinema.org/a/9qxC9RmXndGVukKelJEaW5mRz)
 
 <b>Comparison of two kind of formats<b>
+
 [![asciicast](https://asciinema.org/a/djoPeMmxgZosxDFXCVeMNROaY.svg)](https://asciinema.org/a/djoPeMmxgZosxDFXCVeMNROaY)
