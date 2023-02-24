@@ -10,6 +10,10 @@
 
 [![asciicast](https://asciinema.org/a/9qxC9RmXndGVukKelJEaW5mRz.svg)](https://asciinema.org/a/9qxC9RmXndGVukKelJEaW5mRz)
 
-<b>Comparison of two kind of formats<b>
+<b>Comparison of two kinds of formats<b>
 
 [![asciicast](https://asciinema.org/a/djoPeMmxgZosxDFXCVeMNROaY.svg)](https://asciinema.org/a/djoPeMmxgZosxDFXCVeMNROaY)
+
+<b>Formats<b>
+
+[![asciicast](https://asciinema.org/a/UKcRJDs4U1yacza5lR2iqaYeN.svg)](https://asciinema.org/a/UKcRJDs4U1yacza5lR2iqaYeN)
