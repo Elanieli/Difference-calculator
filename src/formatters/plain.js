@@ -27,7 +27,7 @@ const plain = (resultOfComparison) => {
         case 'unchanged':
           return null;
         default:
-          throw new Error(`${obj.status} is wrong!`);
+          throw new Error(`${obj.status} is wrong type of status!`);
       }
     });
     return data.filter(Boolean).join('\n');
