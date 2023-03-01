@@ -9,7 +9,7 @@ const stringify = (node, depth = 1) => {
   return `{\n${lines.join('\n')}\n  ${genIndent(depth)}}`;
 };
 
-const formatter = (resultOfComparison) => {
+const stylish = (resultOfComparison) => {
   const iter = (currentValue, depth = 1) => {
     const data = currentValue.map((obj) => {
       if (obj.status === 'nested') {
@@ -34,4 +34,4 @@ const formatter = (resultOfComparison) => {
   return `{\n${iter(resultOfComparison)}\n}`;
 };
 
-export default formatter;
+export default stylish;
