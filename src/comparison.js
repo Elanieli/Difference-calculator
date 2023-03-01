@@ -17,18 +17,18 @@ const getComparison = (file1, file2) => {
         children: getComparison(value1, value2),
       };
     }
-    if (!_.has(file2, key)) {
-      return {
-        status: 'deleted',
-        key,
-        value: value1,
-      };
-    }
     if (!_.has(file1, key)) {
       return {
         status: 'added',
         key,
         value: value2,
+      };
+    }
+    if (!_.has(file2, key)) {
+      return {
+        status: 'deleted',
+        key,
+        value: value1,
       };
     }
     if (value1 !== value2) {
