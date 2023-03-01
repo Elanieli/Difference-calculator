@@ -6,8 +6,6 @@ const parse = (file, format) => {
       return JSON.parse(file);
     case 'yml':
       return yaml.load(file);
-    case 'yaml':
-      return yaml.load(file);
     default:
       throw new Error(`${format} is wrong format!`);
   }
