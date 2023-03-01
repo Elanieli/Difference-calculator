@@ -30,7 +30,7 @@ const plain = (resultOfComparison) => {
           throw new Error(`${obj.status} is wrong type of status!`);
       }
     });
-    return data.filter(Boolean).join('\n');
+    return [...data].filter(Boolean).join('\n');
   };
   return iter(resultOfComparison, '');
 };
