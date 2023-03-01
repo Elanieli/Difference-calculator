@@ -14,6 +14,10 @@
 
 [![asciicast](https://asciinema.org/a/djoPeMmxgZosxDFXCVeMNROaY.svg)](https://asciinema.org/a/djoPeMmxgZosxDFXCVeMNROaY)
 
-<b>Formats<b>
+<b>Formats stylish and json<b>
 
 [![asciicast](https://asciinema.org/a/UKcRJDs4U1yacza5lR2iqaYeN.svg)](https://asciinema.org/a/UKcRJDs4U1yacza5lR2iqaYeN)
+
+<b>Format plain<b>
+
+[![asciicast](https://asciinema.org/a/BqlXuSIllEZ45wMDj8UYMxcYb.svg)](https://asciinema.org/a/BqlXuSIllEZ45wMDj8UYMxcYb)
