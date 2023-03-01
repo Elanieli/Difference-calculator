@@ -8,15 +8,13 @@
 
 **Difference calculator** — cli programm which can compare files and show the difference. 
 
-* Supported formats: json, yml; 
-* Difference in formats: stylish, plain, json.
+* Supported formats: json, yml
+* Displaying the difference as: stylish, plain, json
 
 ### Requirements:
-```sh
 * Nodejs
 * Make
 * Ubuntu, Macos or WSL (for Windows)
-```
 
 ### Setup:
 
@@ -61,7 +59,7 @@ make lint
 make test-coverage
 ```
 
-#### Examples 
+### Video with examples 
 
 **Instruction**
 
